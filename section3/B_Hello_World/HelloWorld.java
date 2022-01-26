@@ -1,4 +1,4 @@
-package section3.A_Hello_World;
+package section3.B_Hello_World;
 
 public class HelloWorld {
     public static void main(String[] args){
