@@ -25,7 +25,8 @@ public class PrimitiveTypes {
         System.out.println("Short max: "+ myMaxShort);
         long myMinLong = Long.MIN_VALUE;
         long myMaxLong = Long.MAX_VALUE;
-        long myLongValue = 100L;
+        // for declaring lateral_long_value
+        long myLongValue = 100_100_100_100_200_200L;
         System.out.println("Long min: "+ myMinLong);
         System.out.println("Long max: "+ myMaxLong);
         System.out.println("Value is: "+ myLongValue);

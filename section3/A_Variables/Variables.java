@@ -1,3 +1,5 @@
+package section3.A_Variables;
+
 public class Variables {
     
     public static void main(String[] args) {
