@@ -1,4 +1,4 @@
-package section3.A_Variables;
+package section3._1_Variables;
 
 public class Variables {
     

@@ -1,4 +1,4 @@
-package section3.E_Floats_Doubles;
+package section3._5_Floats_Doubles;
 import java.util.Scanner;
 
 public class FloatsDoubles {

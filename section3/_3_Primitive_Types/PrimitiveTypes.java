@@ -1,4 +1,4 @@
-package section3.C_Primitive_Types;
+package section3._3_Primitive_Types;
 
 
 public class PrimitiveTypes {

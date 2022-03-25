@@ -1,4 +1,4 @@
-package section3.F_Char_Bool;
+package section3._6_Char_Bool;
 
 public class CharBool {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package section3.G_Strings;
+package section3._7_Strings;
 
 public class Strings {
     public static void main(String[] args){
