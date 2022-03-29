@@ -1,4 +1,4 @@
-package section4._3_excersie;
+package section4._3_exercise;
 import java.lang.Math;
 
 public class B {
